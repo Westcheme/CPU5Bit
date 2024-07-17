@@ -1,5 +1,13 @@
 The main code file is CPU5Bit.vhd
 
+1. Instruction length is 16 bits
+    1. Opcode is 4 bits for 16 instructions
+2. 8 registers to work with
+    1. 6 temporary registers
+    2. 1 hi and lo register
+    3. Each register holds a max of 5 bits
+
+
 |     Instruction     | Opcode | Instruction Type |      Operation       |
 | ------------------- | ------ | ---------------- | -------------------- |
 | Add                 |  0000  |      R-Type      | $rw = $rr1 + $rr2    |
@@ -26,3 +34,14 @@ The main code file is CPU5Bit.vhd
 <p>
     <img src="./I Type Instruction Format.png" width="442" height="93" />
 </p>
+
+| Registers | Bits |
+| --------- | ---- |
+|    t1     | 000  |
+|    t2     | 001  |
+|    t3     | 010  |
+|    t4     | 011  |
+|    t5     | 100  |
+|    t6     | 101  |
+|    lo     | 110  |
+|    hi     | 111  |
