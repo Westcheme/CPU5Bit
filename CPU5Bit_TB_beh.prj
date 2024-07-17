@@ -1,0 +1,2 @@
+vhdl work "CPU5Bit.vhd"
+vhdl work "CPU5Bit_TB.vhd"

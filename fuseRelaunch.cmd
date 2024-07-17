@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit_TB_isim_beh.exe" -prj "/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit_TB_beh.prj" "work.CPU5Bit_TB" 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit.vhd" Line 83: Using initial value <arg fmt="%s" index="1">&quot;111&quot;</arg> for <arg fmt="%s" index="2">hireg</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit.vhd" Line 84: Using initial value <arg fmt="%s" index="1">&quot;110&quot;</arg> for <arg fmt="%s" index="2">loreg</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="new" >"/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit.vhd" Line 88: Using initial value <arg fmt="%s" index="1">&quot;000&quot;</arg> for <arg fmt="%s" index="2">t0addr</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit.vhd" Line 98: Assignment to <arg fmt="%s" index="1">t0sig</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Documents/ECE475/CPU5Bit/CPU5Bit.vhd</arg>&quot; line <arg fmt="%d" index="2">127</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">temp1[4]_temp2[4]_rem_39</arg>&gt; of block &lt;<arg fmt="%s" index="4">rem_5u_5u</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">CPU5Bit</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">WD</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+</messages>
+
