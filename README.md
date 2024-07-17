@@ -1,4 +1,4 @@
-The main code file is CPU5Bit.vhd
+The main code file is CPU5Bit.vhd and the test file is CPU5Bit_TB.vhd
 
 1. Instruction length is 16 bits
     1. Opcode is 4 bits for 16 instructions
