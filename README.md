@@ -18,5 +18,5 @@
 | AND Immediate       |  1110  |      I-Type      | $rw = $rr1 AND imm   |
 | OR Immediate        |  1111  |      I-Type      | $rw = $rr1 OR imm    |
 
-![R Type Instruction Format](.\R Type Instruction Format.png)
-![I Type Instruction Format](.\I Type Instruction Format.png)
+![R Type Instruction Format](R Type Instruction Format.png)
+![I Type Instruction Format](I Type Instruction Format.png)
