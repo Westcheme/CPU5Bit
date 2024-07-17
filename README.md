@@ -1,3 +1,5 @@
+The main code file is CPU5Bit.vhd
+
 |     Instruction     | Opcode | Instruction Type |      Operation       |
 | ------------------- | ------ | ---------------- | -------------------- |
 | Add                 |  0000  |      R-Type      | $rw = $rr1 + $rr2    |
