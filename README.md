@@ -18,5 +18,5 @@
 | AND Immediate       |  1110  |      I-Type      | $rw = $rr1 AND imm   |
 | OR Immediate        |  1111  |      I-Type      | $rw = $rr1 OR imm    |
 
-![image](E:\School & Career\School\Winter 2021\ECE 475\Labs\Final Project\R Type Instruction Format.png)
-![image](E:\School & Career\School\Winter 2021\ECE 475\Labs\Final Project\I Type Instruction Format.png)
+![Image](E:\School & Career\School\Winter 2021\ECE 475\Labs\Final Project\R Type Instruction Format.png)
+![Image](E:\School & Career\School\Winter 2021\ECE 475\Labs\Final Project\I Type Instruction Format.png)
